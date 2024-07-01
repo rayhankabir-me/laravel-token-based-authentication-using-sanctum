@@ -30,4 +30,6 @@ class LoginController extends Controller
             'token_type' => "Bearer",
         ], 200);
     }
+
+
 }
